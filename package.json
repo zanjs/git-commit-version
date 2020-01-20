@@ -1,0 +1,15 @@
+{
+	"name": "@tuu/git-commit-version",
+	"version": "0.0.373",
+	"description": "> TODO: description",
+	"author": "ZanJS <suihuasheng@gmail.com>",
+	"license": "ISC",
+	"bin": {
+		"gitcv": "git-commit-version.js"
+	},
+	"main": "git-commit-version.js",
+	"scripts": {
+		"pub": "npm publish  --access=public",
+		"test": "echo \"Error: run tests from root\" && exit 1"
+	}
+}
